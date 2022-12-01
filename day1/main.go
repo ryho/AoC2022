@@ -43,7 +43,6 @@ func main() {
 	sum := largest1 + largest2 + largest3
 	// print sum
 	println(sum)
-
 }
 
 // split string separated by two new lines
