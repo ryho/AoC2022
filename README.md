@@ -3,4 +3,4 @@ I am going to attempt solving the [Advent of Code 2022](https://adventofcode.com
 [GitHub Copilot](https://github.com/features/copilot) with the Go language. This means that I will only be
 writing comments and I will only be allowed to accept code that Copilot generates.
 
-Each day will get it's own directory.
+Each day will get its own directory with its own main file.
